@@ -7,12 +7,9 @@ This template, designed as the optimal springboard for your open-source Python r
 3. Aspire to iterate rapidly while maintaining high confidence that minor code changes won't disrupt the entire pipeline;
 4. Desire to decrease the number of frustrating Runtime Errors encountered during experiment execution.
 
+> [!NOTE]
+> This repo is under construction. 
 
-{% note %}
-
-**Note:** This repo is under construction. 
-
-{% endnote %}
 
 ## Typing
 ### Static type checking
