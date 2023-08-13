@@ -10,7 +10,7 @@ This template, designed as the optimal springboard for your open-source Python r
 
 {% note %}
 
-**Note:** This repo is under construction. 
+**Note:** This repo is under construction.
 
 {% endnote %}
 
@@ -24,4 +24,4 @@ This template, designed as the optimal springboard for your open-source Python r
 
 ## Contribution
 
-I welcome all kinds of contribution, e.g. adding more tools, better practices, discussions on trade-offs. 
+I welcome all kinds of contribution, e.g. adding more tools, better practices, discussions on trade-offs.
