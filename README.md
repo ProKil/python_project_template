@@ -8,8 +8,10 @@ This template, designed as the optimal springboard for your open-source Python r
 4. Desire to decrease the number of frustrating Runtime Errors encountered during experiment execution.
 
 > [!NOTE]
-> This repo is under construction. 
+> This repo is under construction.
 
+## Pull Requests
+A PR typically implements a new feature, improves an old feature, or fixes a bug.
 
 ## Typing
 ### Static type checking
@@ -21,4 +23,4 @@ This template, designed as the optimal springboard for your open-source Python r
 
 ## Contribution
 
-I welcome all kinds of contribution, e.g. adding more tools, better practices, discussions on trade-offs. 
+I welcome all kinds of contribution, e.g. adding more tools, better practices, discussions on trade-offs.
